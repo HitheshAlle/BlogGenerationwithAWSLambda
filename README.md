@@ -172,5 +172,3 @@ boto3
 
 **Hithesh Alle**  
 B.Tech CSE, VIT Vellore  
-📧 hithesh.alle2004@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/hithesh-alle)
